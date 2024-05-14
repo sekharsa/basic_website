@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.todo-card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.todo-heading {
+    font-family: "Roboto";
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+
+.todo-paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.todo-heading2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.todo-paragraph2 {
+    
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.todo-foter {
+    text-align: center;
+}
+
+.button {
+    background-color: orange;
+    text-align: center;
+}
+
+.todo-footer2 {
+    color: white;
+    font-family: "Roboto";
+    text-decoration: underline;
+}
