@@ -1,0 +1,28 @@
+.headder {
+    /* color: white; */
+    font-size: 32px;
+}
+
+.ac {
+    text-align: center;
+    color: white;
+}
+
+.bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    font-family: Roboto;
+    color: white;
+}
+
+.button {
+    background-color: orange;
+    color: white;
+    size: 32px;
+}
+
+.imp {
+    text-decoration: underline;
+}
