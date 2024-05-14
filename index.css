@@ -2,8 +2,11 @@
 
 
 .h-section {
-    background-color: aquamarine;
     text-align: center;
+    height: 250px;
+    width: 250px;
+    background-image: url("./i1.jpeg");
+    background-size: cover;
 }
 
 .paragraph {
